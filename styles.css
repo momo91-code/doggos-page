@@ -121,33 +121,30 @@ text-shadow: 2px 2px 4px black, 0 0 1em black, 0 0 0.2em black;
   width:90%;
   margin:0 auto;
   display:flex;
-  flex-direction: column;
+  flex-direction:row;
   position:relative;
 
 }
 
 .nala-container{
-  position:relative;
   display:flex;
   flex-direction: row;
   height: 430px;
+  width:50%;
 
 }
   
 .nala-left{
   width:30%;
-  position:relative;
   display: flex;
   flex-direction: column;
   
 }
 
 .nala-left-top img{
-  width:fit-content;
-  height: 200px;
+  width:100%;
   border-radius:100%;
   border:solid 7px, black;
-  margin: 60px 20px 20px 100px;
 
 }
 .nala-left-bottom{
@@ -160,38 +157,34 @@ font-size:50px;
 .nala-right {
 display: flex;
 flex-direction: column;
-position:relative;
 width:70%;
 }
 .nala-right p,.nala-right p1{
   font-family: "comfortaa", sans-serif;
-  font-size: 20px;
+  font-size: 10px;
   text-align:center;
   margin-top: 40px;
 
 }
 .rayo-container{
-  position:relative;
   display:flex;
   flex-direction: row;
   height: 430px;
+  width:50%;
 
 }
   
 .rayo-right{
   width:30%;
-  position:relative;
   display: flex;
   flex-direction: column;
   
 }
 
 .rayo-right-top img{
-  width:fit-content;
-  height: 200px;
+  width:100%;
   border-radius:100%;
   border:solid 7px, black;
-  margin: 60px 20px 20px 100px;
 
 }
 .rayo-right-bottom{
@@ -204,12 +197,11 @@ font-size:50px;
 .rayo-left {
 display: flex;
 flex-direction: column;
-position:relative;
 width:70%;
 }
 .rayo-left p,.rayo-left p1{
   font-family: "comfortaa", sans-serif;
-  font-size: 20px;
+  font-size: 10px;
   text-align:center;
   margin-top: 40px;
 
