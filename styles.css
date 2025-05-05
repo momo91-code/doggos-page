@@ -34,9 +34,9 @@
   border-top-right-radius:8px;
   align-items: flex-start;
 }
-@media (max-weight 800px){
+@media (max-width:800px){
   .top-container{
-    width:95%;
+    display:none;
   }
 
 }
@@ -317,3 +317,6 @@ width:60%;
   margin-top: 40px;
 
 }
+
+
+  
