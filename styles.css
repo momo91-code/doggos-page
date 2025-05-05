@@ -34,7 +34,7 @@
   border-top-right-radius:8px;
   align-items: flex-start;
 }
-@media (max-weight 800px){
+@media (max-weight: 800px){
   .top-container{
     width:95%;
   }
@@ -59,7 +59,6 @@ display: flex;
 align-items: center;
 font-size: 30px;
 }
-
 
 .button-container { 
   width: fit-content;
@@ -175,7 +174,6 @@ font-size: 30px;
     margin-left:14%;
   }
 }
-
 
 .nala-container{
   display:flex;
