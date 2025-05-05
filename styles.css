@@ -90,6 +90,7 @@ font-size: 30px;
   padding-left: 4px;
   border-left: 1px solid gold;
   color: gold;
+  cursor: pointer;
   font-family:"comfortaa", sans-serif;
   text-shadow: 2px 2px 4px black, 0 0 1em black, 0 0 0.2em black;
 }
